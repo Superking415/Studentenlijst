@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(53, 53, 193);
+}
+
+.student {
+    width: 400px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top;
+    background-color: #77AD78;
+}
+header {
+    background-color: #90A959;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 150%;
+    font-weight: bold;
+    margin-bottom: 20px;
+    height: 100px;
+    
+}
+
